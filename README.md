@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
- 🔧 I'm current working as a systems analyst. 
- 👨‍💻 I'm continuous learning about React and React Native using TypeScript. 
+ 🔧 I'm current working as a systems analyst.  
+ 👨‍💻 I'm continuous learning about React and React Native using TypeScript.   
 
  🤘 Feel inveted to contribute! 
 
