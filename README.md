@@ -2,7 +2,8 @@
 
 
  🔧 I'm current working as a systems analyst.  
- 👨‍💻 I'm continuous learning about React and React Native using TypeScript.   
+ 😎 I'm an outsystems certified developer. 
+ 👨‍💻 I'm continuous learning about React and React Native using JavaScript and Typescript. 
 
  🤘 Feel invited to contribute! 
 
