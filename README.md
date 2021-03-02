@@ -5,9 +5,9 @@
  👨‍💻 I'm continuous learning about React and React Native using JavaScript and Typescript.  
  😎 I'm an outsystems certified developer.  
  
- Reach me
- <a href="jerry.castro96@outlook.com"> E-mail </a>
- <a href="https://www.linkedin.com/in/jerry-macedo-castro/"> LinkedIn </a> 
+ Reach me  
+ <a href="jerry.castro96@outlook.com"> E-mail </a>  
+ <a href="https://www.linkedin.com/in/jerry-macedo-castro/"> LinkedIn </a>   
  
  🤘 Feel invited to contribute! 
 
