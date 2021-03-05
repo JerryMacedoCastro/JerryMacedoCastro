@@ -2,7 +2,7 @@
 
  🔧 I'm current working as a systems analyst, focused on software development.  
  👨‍💻 I'm continuous learning about React and React Native using JavaScript and Typescript.  
- 😉 I'm not an expertbut I'm comfortable talking in english.   
+ 😉 I'm not an expert but I'm comfortable talking in english.   
  
  
 ### Somethings I already work with
