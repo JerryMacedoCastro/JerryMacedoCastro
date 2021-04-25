@@ -10,6 +10,7 @@
 - Javascript, Typescript.
 - Node JS. 
 - React, React Native.
+- C#, .NET
 - SQL Server, Postgres, MongoDB, Sqlite.
 
 ### Reach me: 
