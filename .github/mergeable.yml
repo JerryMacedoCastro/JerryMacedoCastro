@@ -1,8 +1,10 @@
 version: 2
 mergeable:
-  - when: pull_request.*, pull_request_review.*, status.*, check_suite.*
-    name: "Automatically merge pull requests once it passes all checks"
-    validate: []
+  - when: pull_request.*, pull_request_review.*
+    validate:
+      - do: title
+        must_include:
+          regex: 'bugfix'
     pass:
-      - do: merge
-        merge_method: "squash"
+      - do: labels
+        add: ['bug']
