@@ -1,7 +1,7 @@
 ### Hello, everyone 👋
 
  🔧 I'm current working as a systems analyst, focused on software development at <a href="https://www.atlantico.com.br/">Instituto Atlântico</a>.  
- 👨‍💻 I'm continuous learning about React and React Native using JavaScript and Typescript.   
+ 👨‍💻 I'm continuous learning about React and React Native using Typescript.   
  😉 I'm not an expert but I'm comfortable talking in english.   
  
  
@@ -18,7 +18,3 @@
  <a href="https://www.linkedin.com/in/jerry-macedo-castro/"> LinkedIn </a>   
  
  🤘 Feel invited to contribute! 
-
-
-<!--
-**JerryMacedoCastro/JerryMacedoCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
