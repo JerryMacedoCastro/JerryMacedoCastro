@@ -1,7 +1,7 @@
 ### Hello, everyone 👋
 
- 🔧 I'm current working as a systems analyst, focused on software development at <a href="https://www.atlantico.com.br/">Instituto Atlântico</a>.  
- 👨‍💻 I'm continuous learning about React and React Native using JavaScript and Typescript.   
+ 🔧 I'm current working as a frontend engineer, focused on software development at <a href="https://www.ambevtech.com.br//">Ambev</a>.  
+ 👨‍💻 I'm continuous learning about React and React Native using Typescript.   
  😉 I'm not an expert but I'm comfortable talking in english.   
  
  
@@ -10,8 +10,8 @@
 - Javascript, Typescript.
 - Node JS. 
 - React, React Native.
-- C#, .NET
 - SQL Server, Postgres, MongoDB, Sqlite.
+- - C#, .NET
 
 ### Reach me: 
  <a href="jerry.castro96@outlook.com"> E-mail </a>  
