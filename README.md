@@ -11,7 +11,7 @@
 - Node JS. 
 - React, React Native.
 - SQL Server, Postgres, MongoDB, Sqlite.
-- - C#, .NET
+- C#, .NET
 
 ### Reach me: 
  <a href="jerry.castro96@outlook.com"> E-mail </a>  
