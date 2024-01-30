@@ -1,7 +1,7 @@
 ### Hello, everyone 👋
 
  🔧 I'm current working as a frontend engineer, focused on software development at <a href="https://www.ambevtech.com.br//">Ambev</a>.  
- 👨‍💻 I'm continuous learning about React and React Native using Typescript.   
+ 👨‍💻 I'm continuous learning about React using Typescript and .NET.   
  😉 I'm not an expert but I'm comfortable talking in english.   
  
  
