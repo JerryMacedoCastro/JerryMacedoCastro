@@ -3,7 +3,7 @@
  🔧 I'm current working as a fullstack engineer, focused on software development at <a href="https://www.ambevtech.com.br//">Ambev</a>.  
  🎩 I recently assumed the tech leader position.  
  👨‍💻 I'm continuous learning about React using Typescript and .NET.   
- 😉 I'm not an expert but I'm comfortable talking in english.   
+ 😉 I'm comfortable talking in english.   
   
 ### Somethings I already worked with
 - HTML, CSS.
@@ -12,6 +12,7 @@
 - React, React Native.
 - SQL Server, Postgres, MongoDB, Sqlite.
 - C#, .NET
+- Docker 
 
 ### Reach me: 
  <a href="jerry.castro96@outlook.com"> E-mail </a>  
